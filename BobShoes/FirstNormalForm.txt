@@ -1,0 +1,6 @@
+- One value per table cell
+
+- One table per set of related data
+
+- Each row must be unique 
+

@@ -1,0 +1,2 @@
+- DB Should be in first normal form
+- Single column primary keys 

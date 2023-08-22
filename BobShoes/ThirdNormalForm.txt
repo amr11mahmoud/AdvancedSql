@@ -1,0 +1,6 @@
+- DB Should be in second normal form
+
+- no transitive functional dependencies
+
+- column values should only depend upon the key
+
